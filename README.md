@@ -4,3 +4,12 @@ Once the attendance has been marked in the first period, it will be notified (sa
 Each day’s information regarding the total number of students present and absent will be stored and maintained in a database(firestore database). If a particular student is falling short of attendance for example less than 75 percent then, a message will be conveyed regarding it to their parents.
 The class teacher will be given Admin Access to the portal (wherein attendance is being uploaded), in case of any query or issue related to attendance one can directly contact their respective class teacher.
 
+This project was deployed within 36 hours, as a part of SIH internal Hackathon, held at IIT(ISM) Dhanbad, where it was declared winner in the hardware category.
+The creators of the project were:
+Anukriti Rawat
+Neha Modak
+Jayant Anand
+Sayantani Bhattacharya
+Neelansh Maheshwari
+Ashutosh Saxena
+
